@@ -1,0 +1,4 @@
+#Sat Oct 07 14:40:02 EDT 2017
+base.0=/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

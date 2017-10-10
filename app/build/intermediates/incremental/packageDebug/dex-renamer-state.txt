@@ -1,0 +1,7 @@
+#Sat Oct 07 14:40:02 EDT 2017
+base.0=/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a8de8b105ae5b7aa48cf678e60e3aaa6dbc66fc3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a78ac128c54d331569bbff0644d42dab9d534056/classes.dex
+base.1=/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a78ac128c54d331569bbff0644d42dab9d534056
+file.0=/Users/irene/Desktop/CrossHair Experiment/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a8de8b105ae5b7aa48cf678e60e3aaa6dbc66fc3/classes.dex
